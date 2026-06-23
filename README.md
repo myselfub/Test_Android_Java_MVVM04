@@ -1,2 +1,2 @@
-# Android-Java-MVVMEx04
-Android Java MVVM RecyclerView, Pager2, Databinding, LiveData
+# Test_Android_Java_MVVM04
+MVVM RecyclerView/Pager2/Databinding/LiveData, Android-Java
